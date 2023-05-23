@@ -40,9 +40,8 @@ const submit = () => {
             <div class="flex flex-col items-center text-center">
                 <h2 class="section-title">Me contacter</h2>
                 <p class="subtitle text-gray-500 dark:text-paragraph">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt amet quae
-                    ratione obcaecati nobis tempore quas ex molestias necessitatibus pariatur, impedit praesentium nesciunt
-                    animi eius voluptate fugit eos fugiat libero.
+                    Pour toutes informations sur mes services, comme un devis ou simplement une prise de contact, veuillez 
+                    m'envoyer un message via le formulaire ci-dessous. J'y répondrais dans les 24h.
                 </p>
             </div>
             <div class="flex flex-col lg:flex-row lg:gap-x-8">

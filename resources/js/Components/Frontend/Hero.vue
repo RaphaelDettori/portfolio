@@ -23,12 +23,11 @@
                 <p
                     class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400"
                 >
-                    From checkout to global sales tax compliance, companies
-                    around the world use Flowbite to simplify their payment
-                    stack.
+                    Création de sites web uniques. <br><br> Démarquez vous avec une vitrine dynamique, un design épuré qui met en avant votre produit, 
+                    des animations personnalisées... Vos clients méritent une éxperience remarquable sur votre site web.
                 </p>
-                <a href="#" class="btn">
-                    Get started
+                <a href="#portfolio" class="btn">
+                    Mon portfolio
                     <svg
                         class="w-5 h-5 ml-2 -mr-1"
                         fill="currentColor"
@@ -45,7 +44,7 @@
             </div>
             <div id="pc">
                 <img
-                    src="http://localhost/portfolioLV/public/images/old_pc7.png"
+                    src="http://localhost/portfolioLV/public/images/old_pc8.png"
                     alt="ancien ordinateur"
                     id="imgPC"
                 />
@@ -85,7 +84,7 @@
     left: 40.5%;
     width: 10.5%;
     height: 5.8%;
-    background-color: rgba(88, 88, 88, 0.5);
+    background-color: rgba(88, 88, 88, 0.4);
     transform: skewY(17.6deg);
     overflow: hidden;
 }
